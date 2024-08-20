@@ -1,2 +1,2 @@
 # Coursera-Courses
-![](.Images/Google-IT-Automation-with-Python.jpg)
+![](./Images/Google-IT-Automation-with-Python.jpeg)
